@@ -78,7 +78,7 @@ for soil_type in present_soil_types:
 
 # Settings
 h_exaggeration = 2.0
-ve_factor = 1.0
+ve_factor = 2.0
 grid_resolution = 100
 
 # Scaled coordinates
